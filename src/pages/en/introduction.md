@@ -1,21 +1,12 @@
 ---
 title: Introduction
-description: Docs intro
+description: An introduction to Instellar
 layout: ../../layouts/MainLayout.astro
 ---
 
-**Welcome to Astro!**
+**Welcome to Instellar!**
 
-This is the `docs` starter template. It contains all of the features that you need to build a Markdown-powered documentation site, including:
-
-- ✅ **Full Markdown support**
-- ✅ **Responsive mobile-friendly design**
-- ✅ **Sidebar navigation**
-- ✅ **Search (powered by Algolia)**
-- ✅ **Multi-language i18n**
-- ✅ **Automatic table of contents**
-- ✅ **Automatic list of contributors**
-- ✅ (and, best of all) **dark mode**
+Instellar is a continuous deployment platform that will allow developers to manage deployments without relying on DevOps Engineer. It enables developers to setup their own *Platform as a Service* in a consistent manner without needing any complex tools. This documentation will guide any developer to quickly setup their own servers for simple single server deployments all the way to multi machine cluster that can scale to infinity and beyond.
 
 ## Getting Started
 
