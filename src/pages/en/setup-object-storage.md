@@ -4,7 +4,7 @@ description: Setup a S3 compatible bucket
 layout: ../../layouts/MainLayout.astro
 ---
 
-Instellar stores all of your build artifacts for your packages in S3 compatible buckets. You will need to set one up. This page will show you the various vendors you can use and how to configure your bucket.
+Instellar stores all of your build artifacts for your packages in S3 compatible buckets of your choice. You will need to set one up. This page will show you the various vendors you can use and how to configure your bucket.
 
 ## Digital Ocean Spaces
 
