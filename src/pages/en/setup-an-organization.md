@@ -1,23 +1,16 @@
 ---
-title: Page 2
-description: Lorem ipsum dolor sit amet - 2
+title: Setup an Organization
+description: Let's setup your organization
 layout: ../../layouts/MainLayout.astro
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+An organization is a workspace where all your application / deployments happen.
 
-Sed flavum. Stridore nato, Alcandrumque desint ostendit derat, longoque, eadem
-iunxit miserum pedum pectora. Liberat sine pignus cupit, ferit mihi venias
-amores, et quod, maduere haec _gravi_ contentusque heros. Qui suae attonitas.
+![add organization](/assets/add-organization.png)
 
-_Acta caelo_ ego, hoc illi ferroque, qui fluitque Achillis deiecerat erat
-inhospita arasque ad sume et aquis summo. Fugerat ipse iam. Funeris Iuno Danaos
-est inroravere aurum foret nati aeque tetigisset! Esse ad tibi queritur [Sol sub
-est](http://iusserat.net/) pugno solitoque movet coercuit solent caput te?
+Let's begin by clicking the Add Organization button!
 
-Crescit sint petit gemellos gemino, et _gemma deus sub_ Surrentino frena
-principiis statione. Soporiferam secunda nulli Tereus is _Aeolidae cepit_, tua
-peregrinosque illam parvis, deerit sub et times sedant.
+![setup an organization](/assets/setup-organization-form.png)
 
 ## Apium haec candida mea movebo obsuntque descendat
 

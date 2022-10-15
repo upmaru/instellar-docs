@@ -10,8 +10,4 @@ Instellar is a continuous deployment platform that will allow developers to mana
 
 ## Getting Started
 
-To get started with this theme, check out the `README.md` in your new project directory. It provides documentation on how to use and customize this template for your own project. Keep the README around so that you can always refer back to it as you build.
-
-Found a missing feature that you can't live without? Please suggest it on Discord [(#ideas-and-suggestions channel)](https://astro.build/chat) and even consider adding it yourself on GitHub! Astro is an open source project and contributions from developers like you are how we grow!
-
-Good luck out there, Astronaut. 🧑‍🚀
+You'll need to setup an instellar account. You can do this by heading over to [sign-up](https://web.instellar.app/auth/registrations/new) or [sign-in](https://web.instellar.app/auth/sessions/new) if you already have an account.

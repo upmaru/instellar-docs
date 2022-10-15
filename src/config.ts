@@ -1,6 +1,6 @@
 export const SITE = {
-	title: 'Instellar Documentation',
-	description: 'Your website description.',
+	title: 'Instellar',
+	description: 'Documentation for instellar',
 	defaultLanguage: 'en_US',
 };
 
@@ -47,10 +47,10 @@ export type Sidebar = Record<
 >;
 export const SIDEBAR: Sidebar = {
 	en: {
-		'Basic': [
+		'Start Here': [
 			{ text: 'Introduction', link: 'en/introduction' },
-			{ text: 'Page 2', link: 'en/page-2' },
-			{ text: 'Page 3', link: 'en/page-3' },
+			{ text: 'Setup Storage', link: 'en/setup-storage' },
+			{ text: 'Setup an Organization', link: 'en/setup-an-organization' },
 		],
 		'Advanced': [{ text: 'Page 4', link: 'en/page-4' }],
 	},
