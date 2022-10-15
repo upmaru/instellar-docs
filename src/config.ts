@@ -30,7 +30,7 @@ export const KNOWN_LANGUAGES = {
 } as const;
 export const KNOWN_LANGUAGE_CODES = Object.values(KNOWN_LANGUAGES);
 
-export const GITHUB_EDIT_URL = `https://github.com/upmaru/instellar-docs/tree/master/src/pages`;
+export const GITHUB_EDIT_URL = `https://github.com/upmaru/instellar-docs/tree/master`;
 
 export const COMMUNITY_INVITE_URL = `https://astro.build/chat`;
 
