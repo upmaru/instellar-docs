@@ -30,7 +30,7 @@ export const KNOWN_LANGUAGES = {
 } as const;
 export const KNOWN_LANGUAGE_CODES = Object.values(KNOWN_LANGUAGES);
 
-export const GITHUB_EDIT_URL = `https://github.com/withastro/astro/tree/main/examples/docs`;
+export const GITHUB_EDIT_URL = `https://github.com/upmaru/instellar-docs/tree/master/src/pages`;
 
 export const COMMUNITY_INVITE_URL = `https://astro.build/chat`;
 
@@ -49,7 +49,7 @@ export const SIDEBAR: Sidebar = {
 	en: {
 		'Start Here': [
 			{ text: 'Introduction', link: 'en/introduction' },
-			{ text: 'Setup Storage', link: 'en/setup-storage' },
+			{ text: 'Setup Object Storage', link: 'en/setup-object-storage' },
 			{ text: 'Setup an Organization', link: 'en/setup-an-organization' },
 		],
 		'Advanced': [{ text: 'Page 4', link: 'en/page-4' }],
