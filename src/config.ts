@@ -52,6 +52,9 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Setup Object Storage', link: 'en/setup-object-storage' },
 			{ text: 'Setup an Organization', link: 'en/setup-an-organization' },
 		],
-		'Advanced': [{ text: 'Page 4', link: 'en/page-4' }],
+		'Object Storage': [
+			{ text: 'Amazon S3', link: 'en/object-storage/amazon-s3' },
+			{ text: 'Digital Ocean Spaces', link: 'en/object-storage/digital-ocean-spaces' }
+		],
 	},
 };
