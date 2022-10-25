@@ -51,10 +51,14 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Introduction', link: 'en/introduction' },
 			{ text: 'Object Storage', link: 'en/object-storage' },
 			{ text: 'Setup an Organization', link: 'en/setup-an-organization' },
+			{ text: 'LXD Cluster', link: 'en/lxd-cluster' }
 		],
 		'Object Storage': [
 			{ text: 'Amazon S3', link: 'en/object-storage/amazon-s3' },
 			{ text: 'Digital Ocean Spaces', link: 'en/object-storage/digital-ocean-spaces' }
 		],
+		'LXD Cluster': [
+			{ text: 'Digtal Ocean', link: 'en/lxd-cluster/digital-ocean' }
+		]
 	},
 };
