@@ -49,7 +49,7 @@ export const SIDEBAR: Sidebar = {
 	en: {
 		'Start Here': [
 			{ text: 'Introduction', link: 'en/introduction' },
-			{ text: 'Setup Object Storage', link: 'en/setup-object-storage' },
+			{ text: 'Object Storage', link: 'en/object-storage' },
 			{ text: 'Setup an Organization', link: 'en/setup-an-organization' },
 		],
 		'Object Storage': [

@@ -1,5 +1,5 @@
 ---
-title: Setup Object Storage
+title: Object Storage
 description: Setup a S3 compatible bucket
 layout: ../../layouts/MainLayout.astro
 ---
