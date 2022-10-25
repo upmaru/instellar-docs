@@ -8,7 +8,7 @@ Your applications need to run on some kind of machine. LXD is a system container
 
 ## Why LXD?
 
-Why did we choose LXD vs another more popular container management system? The answer is LXD is very simple yet capable. It's simplicity enables anyone to setup a multi-node cluster very quickly and get up and running very quickly.
+Why did we choose LXD vs another more popular container management system? The answer is LXD is very simple yet just as capable. It's simplicity enables anyone to setup a multi-node cluster very quickly and get up and running very quickly.
 
 LXD is extremely easy to get your head wrapped around. You run `sudo lxd init` on your `Ubuntu` instance. The guide pretty much takes you through the process, and sets everything up for you out of the box.
 

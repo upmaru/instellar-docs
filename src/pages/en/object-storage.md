@@ -10,3 +10,4 @@ You have a choice of the following providers
 
 + [Amazon S3](/en/object-storage/amazon-s3)
 + [Digital Ocean Spaces](/en/object-storage/digital-ocean-spaces)
++ [Cloudflare R2](/en/object-storage/cloudflare-r2)
