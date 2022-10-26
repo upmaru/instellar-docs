@@ -55,7 +55,8 @@ export const SIDEBAR: Sidebar = {
 		],
 		'Object Storage': [
 			{ text: 'Amazon S3', link: 'en/object-storage/amazon-s3' },
-			{ text: 'Digital Ocean Spaces', link: 'en/object-storage/digital-ocean-spaces' }
+			{ text: 'Digital Ocean Spaces', link: 'en/object-storage/digital-ocean-spaces' },
+			{ text: 'Cloudflare R2', link: 'en/object-storage/cloudflare-r2' }
 		],
 		'LXD Cluster': [
 			{ text: 'Digtal Ocean', link: 'en/lxd-cluster/digital-ocean' }
