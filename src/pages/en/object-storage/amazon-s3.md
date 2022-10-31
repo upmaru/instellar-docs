@@ -51,10 +51,10 @@ When creating the policy switch to the `json` tab and use the following policy.
       "Effect": "Allow",
       "Action": "s3:*",
       "Resource": [
-          "arn:aws:s3:::your-bucket-name",
-          "arn:aws:s3:::*/*",
-          "arn:aws:s3:*:*:accesspoint/*",
-          "arn:aws:s3:*:*:job/*"
+        "arn:aws:s3:::your-bucket-name",
+        "arn:aws:s3:::*/*",
+        "arn:aws:s3:*:*:accesspoint/*",
+        "arn:aws:s3:*:*:job/*"
       ]
     }
   ]
