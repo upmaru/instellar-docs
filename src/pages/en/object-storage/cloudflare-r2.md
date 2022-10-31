@@ -34,7 +34,7 @@ region: auto
 
 ### Creating a Token
 
-> Note: that Cloudflare R2 tokens will enable access to all buckets. At the time of writing it is not possible to scope the token to a given bucket. If this is not ok for you it might be worth it to consider another bucket provider.
+> Note: Cloudflare R2 tokens will enable access to all buckets. At the time of writing it is not possible to scope the token to a given bucket. If this is not ok for you it might be worth it to consider another bucket provider.
 
 Now that you have your bucket all setup. Next we will need to generate the S3 compatible token. Head back to the R2 dashboard in your account. Look for the `Manage R2 API Tokens`.
 
