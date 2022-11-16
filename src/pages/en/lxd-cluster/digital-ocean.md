@@ -233,7 +233,7 @@ $ lxc list
 Let's try launching a container
 
 ```shell
-lxc launch images:alpine/3.16 test
+$ lxc launch images:alpine/3.16 test
 Creating test
 Starting test
 ```
