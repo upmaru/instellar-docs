@@ -43,3 +43,5 @@ If you are new to ssh keys I would refer you to [this post](https://medium.com/r
 Lastly you can set a name for your instance and hit `Create Droplet`.
 
 ![select vpc network](/assets/digital-ocean/finalize-and-create.png)
+
+That's all for setting up your compute! Next you can [setup firewall!](/en/firewall/digital-ocean)
