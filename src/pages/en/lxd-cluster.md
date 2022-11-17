@@ -17,3 +17,4 @@ This simplicity is why we chose LXD as the primary container manager. You can ch
 You can setup a single node cluster for hosting simple applications or go all the way up to multi-node / multi-zone setup for more complex deployments. This guide has you covered.
 
 + [Initialization](/en/lxd-cluster/initialization)
++ [Adding a Node](/en/lxd-cluster/adding-node)

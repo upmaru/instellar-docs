@@ -14,7 +14,7 @@ You'll need to setup an instellar account. You can do this by heading over to [s
 
 ## Platform as a Service
 
-> Following this guide you will have a secure by default, production grade platform as a service on your own infrastructure. This guide takes you component by component for multiple providers.
+> Following this guide you will have a secure by default, production grade platform as a service on your own infrastructure. This guide takes you component by component for multiple providers. By the end of this guide you will have a git push deployment powered by instellar.app
 
 1. [Object Storage](/en/object-storage)
 2. [VPC](/en/vpc)
