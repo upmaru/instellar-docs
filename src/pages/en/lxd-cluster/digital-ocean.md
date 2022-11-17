@@ -250,7 +250,11 @@ If you run `lxc list` again you should see
 
 The container has started and there is an ip address assigned. At this point your LXD initialization can be marked as a success.
 
+At this point you have a choice. You can continue using a single instance setup or if you want a more scalable setup in the next section we will show you how to add more machines to your cluster.
 
+### Multi Node LXD Cluster
+
+To add more nodes to your cluster simply repeat the same steps on [Droplet Setup](/en/lxd-cluster/digital-ocean#droplet-setup). Be sure to number your node with `02` and `03` numbering suffix to make sure they're easily identifiable.
 
 
 
