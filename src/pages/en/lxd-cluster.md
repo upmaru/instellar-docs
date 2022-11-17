@@ -1,10 +1,10 @@
 ---
-title: Setup LXD Cluster
+title: LXD Cluster
 description: Let's setup your LXD cluster
 layout: ../../layouts/MainLayout.astro
 ---
 
-Your applications need to run on some kind of machine. LXD is a system container and virtual machine manager. You can setup a LXD cluster on any cloud provider of your choosing. Below are some choices. If you wish to learn more about LXD you can visit [this page](https://linuxcontainers.org/lxd/introduction/).
+LXD is a system container and virtual machine manager. You can setup a LXD cluster on any cloud provider of your choosing. Below are some choices. If you wish to learn more about LXD you can visit [this page](https://linuxcontainers.org/lxd/introduction/).
 
 ## Why LXD?
 
@@ -16,6 +16,4 @@ This simplicity is why we chose LXD as the primary container manager. You can ch
 
 You can setup a single node cluster for hosting simple applications or go all the way up to multi-node / multi-zone setup for more complex deployments. This guide has you covered.
 
-+ [Digital Ocean](/en/lxd-cluster/digital-ocean)
-+ [Amazon AWS](/en/lxd-cluster/amazon-aws)
-+ [Google Cloud](/en/lxd-cluster/google-cloud)
++ [Initialization](/en/lxd-cluster/initialization)
