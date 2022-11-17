@@ -49,11 +49,13 @@ export const SIDEBAR: Sidebar = {
 	en: {
 		'Start Here': [
 			{ text: 'Introduction', link: 'en/introduction' },
-			{ text: 'Object Storage', link: 'en/object-storage' },
-			{ text: 'VPC', link: 'en/vpc' },
-			{ text: 'Compute', link: 'en/compute' },
-			{ text: 'Setup an Organization', link: 'en/setup-an-organization' },
-			{ text: 'LXD Cluster', link: 'en/lxd-cluster' }
+			{ text: '1. Object Storage', link: 'en/object-storage' },
+			{ text: '2. VPC', link: 'en/vpc' },
+			{ text: '3. Compute', link: 'en/compute' },
+			{ text: '4. Firewall', link: 'en/firewall' },
+			{ text: '5. LXD Cluster', link: 'en/lxd-cluster' },
+			{ text: '6. Load Balancer', link: 'en/load-balancer' },
+			{ text: '7. Database', link: 'en/database' }
 		],
 		'Object Storage': [
 			{ text: 'Amazon S3', link: 'en/object-storage/amazon-s3' },
