@@ -50,6 +50,7 @@ export const SIDEBAR: Sidebar = {
 		'Start Here': [
 			{ text: 'Introduction', link: 'en/introduction' },
 			{ text: 'Object Storage', link: 'en/object-storage' },
+			{ text: 'VPC', link: 'en/vpc' },
 			{ text: 'Compute', link: 'en/compute' },
 			{ text: 'Setup an Organization', link: 'en/setup-an-organization' },
 			{ text: 'LXD Cluster', link: 'en/lxd-cluster' }
