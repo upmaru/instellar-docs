@@ -10,9 +10,20 @@ There may be some minor differences between each provider which will be highligh
 
 Once you boot up your instance you can login by using the following command (assuming you've setup your ssh authentication correctly).
 
-```shell
+## Login via SSH
+
+
+```shell 
+# Digital Ocean 
 $ ssh root@<ip-address>
+``` 
+
+```shell 
+# GCP / AWS 
+$ ssh me@<ip-address>
 ```
+
+## LXD Init
 
 Let's initialize LXD. Since LXD comes install by default on Ubuntu all you'll need to do is run the following:
 

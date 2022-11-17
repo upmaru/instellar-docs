@@ -40,4 +40,4 @@ Give your VPC a name and description and click `Create VPC Network`
 
 ![configure ip range](/assets/digital-ocean/vpc-name-description.png)
 
-That concludes setting up your VPC.
+That concludes setting up your VPC. Next up let's [set-up compute](/en/compute/digital-ocean)
