@@ -57,23 +57,29 @@ export const SIDEBAR: Sidebar = {
 			{ text: '6. Load Balancer', link: 'en/load-balancer' },
 			{ text: '7. Database', link: 'en/database' }
 		],
-		'Object Storage': [
+		'1. Object Storage': [
 			{ text: 'Amazon S3', link: 'en/object-storage/amazon-s3' },
 			{ text: 'Digital Ocean Spaces', link: 'en/object-storage/digital-ocean-spaces' },
 			{ text: 'Cloudflare R2', link: 'en/object-storage/cloudflare-r2' }
 		],
-		'VPC': [
+		'2. VPC': [
 			{ text: 'Digital Ocean', link: 'en/vpc/digital-ocean' }
 		],
-		'Compute': [
+		'3. Compute': [
 			{ text: 'Digital Ocean', link: 'en/compute/digital-ocean' }
 		],
-		'Firewall': [
+		'4. Firewall': [
 			{ text: 'Digital Ocean', link: 'en/firewall/digital-ocean' }
 		],
-		'LXD Cluster': [
+		'5. LXD Cluster': [
 			{ text: 'Initialization', link: 'en/lxd-cluster/initialization' },
 			{ text: 'Adding Node', link: 'en/lxd-cluster/adding-node' }
+		],
+		'6. Load Balancer': [
+			{ text: 'Digital Ocean', link: 'en/load-balancer/digital-ocean' }
+		],
+		'7. Database': [
+			{ text: 'Digital Ocean', link: 'en/database/digital-ocean' }
 		]
 	},
 };
