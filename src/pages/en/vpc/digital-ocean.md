@@ -4,9 +4,7 @@ description: Setup Digital Ocean VPC
 layout: ../../../layouts/MainLayout.astro
 ---
 
-Before we do anything we need to configure a VPC for our instances. VPC stands for `virtual private cloud` it allows you to create a secure environment where nodes within VPC can communicate with one another via private ip addresses. 
-
-LXD will uses fan networking to allow members in the cluster to privately communicate with one another securely. To setup your VPC go over to the `Networking` page.
+The section below shows how to setup your VPC on digital ocean. Go over to the `Networking` page.
 
 ![networking button](/assets/digital-ocean/networking-button.png)
 

@@ -63,7 +63,8 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Cloudflare R2', link: 'en/object-storage/cloudflare-r2' }
 		],
 		'2. VPC': [
-			{ text: 'Digital Ocean', link: 'en/vpc/digital-ocean' }
+			{ text: 'Digital Ocean', link: 'en/vpc/digital-ocean' },
+			{ text: 'Google Cloud', link: 'en/vpc/google-cloud' }
 		],
 		'3. Compute': [
 			{ text: 'Digital Ocean', link: 'en/compute/digital-ocean' }

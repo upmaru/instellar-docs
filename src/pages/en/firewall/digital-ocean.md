@@ -10,13 +10,13 @@ Once you have setup your droplets the next thing we need to do is put them behin
 
 ## Create Firewall
 
-We will create a new firewall. Go ahed and click `Create Firewall`. You'll be brought to the Create Firewall page. Go ahead and give it a name.
+We will create a new firewall. Go ahead and click `Create Firewall`. You'll be brought to the Create Firewall page. Go ahead and give it a name.
 
 The next section you'll see is the `Inbound Rules`. This section allows you to control what `Inbound` traffic can reach your nodes. You will see `22` there as the default. This is the default port for SSH.
 
 ![create firewall](/assets/digital-ocean/create-firewall.png)
 
-## Create Inbound Rule
+## Inbound Rule
 
 Go ahead and add a new rule enabling port `8443`. This is the port that will enable `instellar` to connect to your LXD instance.
 
