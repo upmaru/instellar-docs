@@ -14,14 +14,12 @@ You'll need to setup an instellar account. You can do this by heading over to [s
 
 ## Platform as a Service
 
-> Following this guide you will have a secure by default, production grade platform as a service on your own infrastructure. This guide takes you component by component for multiple providers. By the end of this guide you will have a git push deployment powered by instellar.app
+Parts of the following guide will be done through the UI of the various providers, however some of them will also be done using [terraform](https://terraform.io). You will need to sign up for [terraform cloud](https://cloud.hashicorp.com/products/terraform) (it's free) to successfully follow along.
+
+> Following this guide you will have a secure by default, production grade platform as a service on your own infrastructure. By the end of this guide you will have a git push deployment powered by [instellar.app](https://instellar.app)
 
 1. [Object Storage](/en/object-storage)
-2. [VPC](/en/vpc)
-3. [Compute](/en/compute)
-4. [Firewall](/en/firewall)
-5. [LXD Cluster](/en/lxd-cluster)
-6. [Load Balancer](/en/load-balancer)
-7. [Database](/en/database)
+2. [Infrastructure](/en/infrastructure)
+3. [LXD Cluster](/en/lxd-cluster)
 
 

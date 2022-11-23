@@ -50,37 +50,27 @@ export const SIDEBAR: Sidebar = {
 		'Start Here': [
 			{ text: 'Introduction', link: 'en/introduction' },
 			{ text: '1. Object Storage', link: 'en/object-storage' },
-			{ text: '2. VPC', link: 'en/vpc' },
-			{ text: '3. Compute', link: 'en/compute' },
-			{ text: '4. Firewall', link: 'en/firewall' },
-			{ text: '5. LXD Cluster', link: 'en/lxd-cluster' },
-			{ text: '6. Load Balancer', link: 'en/load-balancer' },
-			{ text: '7. Database', link: 'en/database' }
+			{ text: '2. Terraform', link: 'en/terraform' },
+			{ text: '3. Infrastructure', link: 'en/infrastructure' },
+			{ text: '4. LXD Cluster', link: 'en/lxd-cluster' },
+			{ text: '5. Instellar', link: 'en/instellar' }
 		],
 		'1. Object Storage': [
 			{ text: 'Amazon S3', link: 'en/object-storage/amazon-s3' },
 			{ text: 'Digital Ocean Spaces', link: 'en/object-storage/digital-ocean-spaces' },
 			{ text: 'Cloudflare R2', link: 'en/object-storage/cloudflare-r2' }
 		],
-		'2. VPC': [
-			{ text: 'Digital Ocean', link: 'en/vpc/digital-ocean' },
-			{ text: 'Google Cloud', link: 'en/vpc/google-cloud' }
+		'2. Terraform': [
+			{ text: 'CLI', link: 'en/terraform/cli' },
+			{ text: 'Cloud', link: 'en/terraform/cloud' }
 		],
-		'3. Compute': [
-			{ text: 'Digital Ocean', link: 'en/compute/digital-ocean' }
+		'3. Infrastructure': [
+			{ text: 'Digital Ocean', link: 'en/infrastructure/digital-ocean' },
+			{ text: 'Google Cloud', link: 'en/infrastructure/google-cloud' }
 		],
-		'4. Firewall': [
-			{ text: 'Digital Ocean', link: 'en/firewall/digital-ocean' }
-		],
-		'5. LXD Cluster': [
+		'5. LXD': [
 			{ text: 'Initialization', link: 'en/lxd-cluster/initialization' },
 			{ text: 'Adding Node', link: 'en/lxd-cluster/adding-node' }
-		],
-		'6. Load Balancer': [
-			{ text: 'Digital Ocean', link: 'en/load-balancer/digital-ocean' }
-		],
-		'7. Database': [
-			{ text: 'Digital Ocean', link: 'en/database/digital-ocean' }
 		]
 	},
 };
