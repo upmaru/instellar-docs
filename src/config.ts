@@ -61,14 +61,14 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Cloudflare R2', link: 'en/object-storage/cloudflare-r2' }
 		],
 		'2. Terraform': [
-			{ text: 'CLI', link: 'en/terraform/cli' },
-			{ text: 'Cloud', link: 'en/terraform/cloud' }
+			{ text: 'Cloud', link: 'en/terraform/cloud' },
+			{ text: 'CLI', link: 'en/terraform/cli' }
 		],
 		'3. Infrastructure': [
 			{ text: 'Digital Ocean', link: 'en/infrastructure/digital-ocean' },
 			{ text: 'Google Cloud', link: 'en/infrastructure/google-cloud' }
 		],
-		'5. LXD': [
+		'4. LXD': [
 			{ text: 'Initialization', link: 'en/lxd-cluster/initialization' },
 			{ text: 'Adding Node', link: 'en/lxd-cluster/adding-node' }
 		]
