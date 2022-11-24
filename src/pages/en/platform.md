@@ -10,7 +10,7 @@ The infrastructure is the main part that will be used by [instellar.app](https:/
 
 This setup will enable you to run any kind of apps written in almost any language and framework! We'll go through each component to explain the reasoning behind the existence of each component.
 
-We will be setting this up using [terraform](/en/infrastructure/terraform).
+We will be setting this up using [terraform](/en/platform/terraform).
 
 ## Bastion
 
@@ -22,7 +22,7 @@ VPC stands for virtual private cloud. This is the network that all the virtual m
 
 ## Nodes
 
-In the design above they're labeled as `node.X`. These are the actual virtual machines that run your apps. These can be scaled up / down to serve as many apps as you wish. If you are a solo developer with just a basic website and a few other utilities you wish to hose a single node might be enough. You can scale up to 3, 5, 7 nodes as your product grows.
+In the design above they're labeled as `node-X`. These are the actual virtual machines that run your apps. These can be scaled up / down to serve as many apps as you wish. If you are a solo developer with just a basic website and a few other utilities you wish to hose a single node might be enough. You can scale up to 3, 5, 7 nodes as your product grows.
 
 ## Database
 

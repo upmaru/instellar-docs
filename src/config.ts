@@ -50,7 +50,7 @@ export const SIDEBAR: Sidebar = {
 		'Start Here': [
 			{ text: 'Introduction', link: 'en/introduction' },
 			{ text: '1. Object Storage', link: 'en/object-storage' },
-			{ text: '2. Infrastructure', link: 'en/infrastructure' },
+			{ text: '2. Platform', link: 'en/platform' },
 			{ text: '3. LXD Cluster', link: 'en/lxd-cluster' },
 			{ text: '4. Instellar', link: 'en/instellar' }
 		],
@@ -59,10 +59,10 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Digital Ocean Spaces', link: 'en/object-storage/digital-ocean-spaces' },
 			{ text: 'Cloudflare R2', link: 'en/object-storage/cloudflare-r2' }
 		],
-		'2. Infrastructure': [
-			{ text: 'Terraform', link: 'en/infrastructure/terraform' },
-			{ text: 'Digital Ocean', link: 'en/infrastructure/digital-ocean' },
-			{ text: 'Google Cloud', link: 'en/infrastructure/google-cloud' }
+		'2. Platform': [
+			{ text: 'Terraform', link: 'en/platform/terraform' },
+			{ text: 'Digital Ocean', link: 'en/platform/digital-ocean' },
+			{ text: 'Google Cloud', link: 'en/platform/google-cloud' }
 		],
 		'3. LXD': [
 			{ text: 'Initialization', link: 'en/lxd-cluster/initialization' },

@@ -10,5 +10,8 @@ export default defineConfig({
 		// Enable React for the Algolia search component.
 		react(),
 	],
+	markdown: {
+		syntaxHighlight: 'shiki'
+	},
 	site: 'https://docs.instellar.app',
 });
