@@ -50,25 +50,21 @@ export const SIDEBAR: Sidebar = {
 		'Start Here': [
 			{ text: 'Introduction', link: 'en/introduction' },
 			{ text: '1. Object Storage', link: 'en/object-storage' },
-			{ text: '2. Terraform', link: 'en/terraform' },
-			{ text: '3. Infrastructure', link: 'en/infrastructure' },
-			{ text: '4. LXD Cluster', link: 'en/lxd-cluster' },
-			{ text: '5. Instellar', link: 'en/instellar' }
+			{ text: '2. Infrastructure', link: 'en/infrastructure' },
+			{ text: '3. LXD Cluster', link: 'en/lxd-cluster' },
+			{ text: '4. Instellar', link: 'en/instellar' }
 		],
 		'1. Object Storage': [
 			{ text: 'Amazon S3', link: 'en/object-storage/amazon-s3' },
 			{ text: 'Digital Ocean Spaces', link: 'en/object-storage/digital-ocean-spaces' },
 			{ text: 'Cloudflare R2', link: 'en/object-storage/cloudflare-r2' }
 		],
-		'2. Terraform': [
-			{ text: 'Cloud', link: 'en/terraform/cloud' },
-			{ text: 'CLI', link: 'en/terraform/cli' }
-		],
-		'3. Infrastructure': [
+		'2. Infrastructure': [
+			{ text: 'Terraform', link: 'en/infrastructure/terraform' },
 			{ text: 'Digital Ocean', link: 'en/infrastructure/digital-ocean' },
 			{ text: 'Google Cloud', link: 'en/infrastructure/google-cloud' }
 		],
-		'4. LXD': [
+		'3. LXD': [
 			{ text: 'Initialization', link: 'en/lxd-cluster/initialization' },
 			{ text: 'Adding Node', link: 'en/lxd-cluster/adding-node' }
 		]
