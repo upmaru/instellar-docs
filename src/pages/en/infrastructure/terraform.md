@@ -4,6 +4,8 @@ description: Setup your terraform cloud account
 layout: ../../../layouts/MainLayout.astro
 ---
 
+> First you'll need a [terraform cloud account](https://cloud.hashicorp.com/products/terraform) (it's free).
+
 Once you sign up for terraform cloud you'll need to setup an organization and a workspace.
 
 ![new organization](/assets/terraform/new-organization.png)
