@@ -64,8 +64,8 @@ Once you entered the branch name go ahead and click `Create workspace`
 
 Congratulations! You've created your workspace. Next we will show you how to create your instellar cluster configuration based on this [terraform module](https://registry.terraform.io/modules/upmaru/instellar/digitalocean/latest). You can choose which cloud provider you are using below:
 
-+ [Digital Ocean](/en/infrastructure/digital-ocean)
-+ [Google Cloud](/en/infrastructure/google-cloud)
++ [Digital Ocean](/en/platform/digital-ocean)
++ [Google Cloud](/en/platform/google-cloud)
 
 
 

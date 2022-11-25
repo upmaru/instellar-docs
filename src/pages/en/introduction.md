@@ -19,7 +19,7 @@ Parts of the following guide will be done through the UI of the various provider
 > Following this guide you will have a secure by default, production grade platform as a service on your own infrastructure. By the end of this guide you will have a git push deployment powered by [instellar.app](https://instellar.app)
 
 1. [Object Storage](/en/object-storage)
-2. [Infrastructure](/en/infrastructure)
+2. [Platform](/en/platform)
 3. [LXD Cluster](/en/lxd-cluster)
 
 
